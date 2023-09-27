@@ -1,0 +1,31 @@
+.wel
+{
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 0px 30px;
+
+}
+.logo
+{
+    color: White;
+    font-weight: bold;
+}
+.to
+{
+    color: white;
+    background-color: white;
+    box-shadow: none;
+    outline: none;
+}
+
+
+
+.footer
+{
+    background-color: black;
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 20px ;
+}
